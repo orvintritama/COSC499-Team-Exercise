@@ -26,7 +26,7 @@ Ryan is responsible for creating and updating the README file. Ryan is also resp
 4. **Bucket Sort**
 
 ### Structure
-All features will be condensed into one class file including the four features presented as methods. The project will also include a test file that only includes test cases for unit testing purposes. The unit testing will be performed using JUnit 4.
+All features are developed independently, thus each feature are presented using multiple class files. Each feature will come with an additional unit testing class file that tests the distinct feature.
 
 ### Evaluation
 The evaluation of our personal efforts will be performed using GitStats. Each of our team members will submit a GitStat report to Canvas.
