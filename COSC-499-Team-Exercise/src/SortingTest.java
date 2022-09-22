@@ -12,6 +12,7 @@ class SortingTest {
 		assertArrayEquals(new int[] {10,19,25,48,62}, SelectionSort.selectionSort(arr));
         assertArrayEquals(new int[] {10,19,25,48,62}, InsertionSort.insertionSort(arr));
 		assertArrayEquals(new int[] {10,19,25,48,62}, BubbleSort.bubbleSort(arr));
+		assertArrayEquals(new int[] {10,19,25,48,62}, BucketSort.bucketSort(arr));
 	}
 
 }
