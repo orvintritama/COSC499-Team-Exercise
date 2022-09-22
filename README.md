@@ -17,7 +17,7 @@ Qingyan is responsible for creating issues and manage the Kanban project board u
 Fareeha is responsible for making sure that the quality of our completed project meets our expectations. She responsible for developing the bubble sort feature.
 
 *Ryan* (Client Liaison)
-Ryan is responsible for creating and updating the README file. Ryan is also responsible for the Bucket Sort feature.
+Ryan is responsible for creating and updating the README file. Ryan is also responsible for the Insertion Sort feature.
 
 ### Features
 1. **Selection Sort**
