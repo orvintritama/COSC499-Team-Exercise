@@ -10,7 +10,8 @@ class SortingTest {
 	void test() {
 		int[] arr = {62,48,10,25,19};
 		assertArrayEquals(new int[] {10,19,25,48,62}, SelectionSort.selectionSort(arr));
-                assertArrayEquals(new int[] {10,19,25,48,62}, InsertionSort.insertionSort(arr));
+        assertArrayEquals(new int[] {10,19,25,48,62}, InsertionSort.insertionSort(arr));
+		assertArrayEquals(new int[] {10,19,25,48,62}, BubbleSort.bubbleSort(arr));
 	}
 
 }
